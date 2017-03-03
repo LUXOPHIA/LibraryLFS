@@ -1,4 +1,5 @@
 # LibraryLFS
+[Git LFS](https://git-lfs.github.com/) を有効にして、画像ファイルをリポジトリへ保存する。
 
 1. 「Initialize Repository」を選択。  
 [![](https://github.com/LUXOPHIA/LibraryLFS/raw/README/README/LibraryLFS-01.png)](https://github.com/LUXOPHIA/LibraryLFS/raw/README/README/LibraryLFS-01.png)
@@ -35,3 +36,14 @@
 
 1. プッシュに成功。  
 [![](https://github.com/LUXOPHIA/LibraryLFS/raw/README/README/LibraryLFS-14.png)](https://github.com/LUXOPHIA/LibraryLFS/raw/README/README/LibraryLFS-14.png)
+>     Pushing to https://github.com/LUXOPHIA/LibraryLFS
+>     
+>     Git LFS: (1 of 1 files) 2.19 MB / 2.19 MB                                      
+>     POST git-receive-pack (1068 bytes)
+>     Branch master set up to track remote branch master from origin.
+>     To https://github.com/LUXOPHIA/LibraryLFS
+>      * [new branch]      master -> master
+>     updating local tracking ref 'refs/remotes/origin/master'
+>     
+>     
+>     完了しました。
